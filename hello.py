@@ -1,1 +1,1 @@
-print("Hello From Jenkins!")
+print("Hello From Jenkins and Github Actions!")
